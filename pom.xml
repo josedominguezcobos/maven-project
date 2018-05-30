@@ -19,7 +19,7 @@
 		<activemq.version>5.15.4</activemq.version>
 		
 		<uid>dcj1973</uid>
-		<pwd>dcjAnael2014</pwd>
+		<pwd></pwd>
 	</properties>
 
 	<build>
@@ -153,7 +153,6 @@
 			<groupId>org.apache.derby</groupId>
 			<artifactId>derby</artifactId>
 			<version>${derby.version}</version>
-			<scope>provided</scope>
 		</dependency>
 		<dependency>
 			<groupId>org.apache.activemq</groupId>
